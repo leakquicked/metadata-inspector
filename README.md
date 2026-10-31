@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/metadata-inspector/actions/workflows/python-checks.yml/badge.svg)
+
 # Metadata Inspector
 
 Review exported text for metadata-like fields.
